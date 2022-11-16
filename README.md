@@ -24,7 +24,7 @@ To get your discord token, check out this article: https://www.androidauthority.
 <br />
 
 ### Config
-The 10 is delay in seconds before posting. You can have multiple channels at the same time. Do different delays, so you dont get ratelimited.
+The 10 is delay in seconds before each post. You can have multiple channels at the same time. Do different delays, so you dont get ratelimited.
 let channels = [['CHANNELID', 'TEXT YOU WANT TO ADVERTISE', 10], ['CHANNELID', 'TEXT YOU WANT TO ADVERTISE', 15]]
 
 Here is a config that will send messages in 3 channels
